@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../assets/img/NSU_flag.png"; // Replace with actual image paths
-import Cricket_img from "../assets/img/cricket.jpg";
+import Cricket_img from "../assets/img/Cricket.jpg";
 import Health2 from "../assets/img/Health2.jpg";
 import Health3 from "../assets/img/Health3.jpg";
 import Quiz1 from "../assets/img/Quiz1.jpg";
