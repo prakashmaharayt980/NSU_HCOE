@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Cricket_img from "../assets/img/cricket.jpg";
+import Cricket_img from "../assets/img/Cricket.jpg";
 import Health2 from "../assets/img/Health2.jpg";
 import Health3 from "../assets/img/Health3.jpg";
 import Quiz1 from "../assets/img/Quiz1.jpg";
