@@ -2,13 +2,17 @@ import React, { useState } from "react";
 import { Worker, Viewer } from "@react-pdf-viewer/core";
 import "@react-pdf-viewer/core/lib/styles/index.css";
 import sem1C_programming from "../assets/pdf/C_programming_1_sem.pdf";
+import '@react-pdf-viewer/default-layout/lib/styles/index.css';
+import { pageNavigationPlugin } from '@react-pdf-viewer/page-navigation';
 
-// Directly link the worker from a CDN
+// Import styles
+import '@react-pdf-viewer/page-navigation/lib/styles/index.css';
+
 const Education = () => {
   const [selectedSemester, setSelectedSemester] = useState("Semester 1");
   const [selectedDepartment, setSelectedDepartment] = useState("IT");
   const [selectedPdf, setSelectedPdf] = useState(null);
-
+  const pageNavigationPluginInstance = pageNavigationPlugin();
   // Sample data for notes
   const notesData = [
     {
@@ -117,8 +121,8 @@ const Education = () => {
           >
             Close Viewer
           </button>
-          <Worker workerUrl="https://unpkg.com/pdfjs-dist@2.15.349/build/pdf.worker.min.js">
-            <Viewer fileUrl={selectedPdf} />
+          <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.js">
+            <Viewer fileUrl={selectedPdf} plugins={[pageNavigationPluginInstance]}   />
           </Worker>
         </div>
       )}
