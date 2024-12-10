@@ -1,0 +1,1406 @@
+{
+    "options": {
+      "semesters": [
+        "Semester 1",
+        "Semester 2",
+        "Semester 3",
+        "Semester 4",
+        "Semester 5",
+        "Semester 6",
+        "Semester 7",
+        "Semester 8"
+      ],
+      "departments": ["BCA", "Civil Engineering", "Electrical Engineering", "CSIT", "Computer Engineering"]
+    },
+    "notes": [
+        {
+            "BCA": {
+              "Semester 1": [
+                {
+                  "title": "Computer Fundamentals and Applications",
+                  "creditHour": "3 hrs",
+                  "code": "CACS101"
+                },
+                {
+                  "title": "Society and Technology",
+                  "creditHour": "3 hrs",
+                  "code": "CAS0102"
+                },
+                {
+                  "title": "English I",
+                  "creditHour": "3 hrs",
+                  "code": "CAEN103"
+                },
+                {
+                  "title": "Mathematics I",
+                  "creditHour": "3 hrs",
+                  "code": "CAMT014"
+                },
+                {
+                  "title": "Digital Logic",
+                  "creditHour": "3 hrs",
+                  "code": "CACS105"
+                }
+              ],
+              "Semester 2": [
+                {
+                  "title": "C Programming",
+                  "creditHour": "4 hrs",
+                  "code": "CACS151"
+                },
+                {
+                  "title": "Financial Accounting",
+                  "creditHour": "3 hrs",
+                  "code": "CAAC152"
+                },
+                {
+                  "title": "English II",
+                  "creditHour": "3 hrs",
+                  "code": "CAEN153"
+                },
+                {
+                  "title": "Mathematics II",
+                  "creditHour": "3 hrs",
+                  "code": "CAMT154"
+                },
+                {
+                  "title": "Microprocessor and Computer Architecture",
+                  "creditHour": "3 hrs",
+                  "code": "CACS155"
+                }
+              ],
+              "Semester 3": [
+                {
+                  "title": "Data Structures and Algorithms",
+                  "creditHour": "3 hrs",
+                  "code": "CACS201"
+                },
+                {
+                  "title": "Probability and Statistics",
+                  "creditHour": "3 hrs",
+                  "code": "CAST202"
+                },
+                {
+                  "title": "System Analysis and Design",
+                  "creditHour": "3 hrs",
+                  "code": "CACS203"
+                },
+                {
+                  "title": "OOP in Java",
+                  "creditHour": "3 hrs",
+                  "code": "CACS204"
+                },
+                {
+                  "title": "Web Technology",
+                  "creditHour": "3 hrs",
+                  "code": "CACS205"
+                }
+              ],
+              "Semester 4": [
+                {
+                  "title": "Operating System",
+                  "creditHour": "3 hrs",
+                  "code": "CACS251"
+                },
+                {
+                  "title": "Numerical Methods",
+                  "creditHour": "3 hrs",
+                  "code": "CACS252"
+                },
+                {
+                  "title": "Software Engineering",
+                  "creditHour": "3 hrs",
+                  "code": "CACS253"
+                },
+                {
+                  "title": "Scripting Language",
+                  "creditHour": "3 hrs",
+                  "code": "CACS254"
+                },
+                {
+                  "title": "Database Management System",
+                  "creditHour": "3 hrs",
+                  "code": "CACS255"
+                },
+                {
+                  "title": "Project I",
+                  "creditHour": "2 hrs",
+                  "code": "CAPJ256"
+                }
+              ],
+              "Semester 5": [
+                {
+                  "title": "MIS and E-Business",
+                  "creditHour": "3 hrs",
+                  "code": "CACS301"
+                },
+                {
+                  "title": "DotNet Technology",
+                  "creditHour": "3 hrs",
+                  "code": "CACS302"
+                },
+                {
+                  "title": "Computer Networking",
+                  "creditHour": "3 hrs",
+                  "code": "CACS303"
+                },
+                {
+                  "title": "Introduction to Management",
+                  "creditHour": "3 hrs",
+                  "code": "CAMG304"
+                },
+                {
+                  "title": "Computer Graphics and Animation",
+                  "creditHour": "3 hrs",
+                  "code": "CACS305"
+                }
+              ],
+              "Semester 6": [
+                {
+                  "title": "Mobile Programming",
+                  "creditHour": "3 hrs",
+                  "code": "CACS351"
+                },
+                {
+                  "title": "Distributed System",
+                  "creditHour": "3 hrs",
+                  "code": "CACS352"
+                },
+                {
+                  "title": "Applied Economics",
+                  "creditHour": "3 hrs",
+                  "code": "CAEC353"
+                },
+                {
+                  "title": "Advanced Java Programming",
+                  "creditHour": "3 hrs",
+                  "code": "CACS354"
+                },
+                {
+                  "title": "Network Programming",
+                  "creditHour": "3 hrs",
+                  "code": "CACS355"
+                },
+                {
+                  "title": "Project II",
+                  "creditHour": "2 hrs",
+                  "code": "CAPJ356"
+                }
+              ],
+              "Semester 7": [
+                {
+                  "title": "Cyber Law and Professional Ethics",
+                  "creditHour": "3 hrs",
+                  "code": "CACS401"
+                },
+                {
+                  "title": "Cloud Computing",
+                  "creditHour": "3 hrs",
+                  "code": "CACS402"
+                },
+                {
+                  "title": "Internships",
+                  "creditHour": "3 hrs",
+                  "code": "CAIN403"
+                },
+                {
+                  "title": "Elective I",
+                  "creditHour": "3 hrs",
+                  "code": "N/A"
+                },
+                {
+                  "title": "Elective II",
+                  "creditHour": "3 hrs",
+                  "code": "N/A"
+                }
+              ],
+              "Semester 8": [
+                {
+                  "title": "Operations Research",
+                  "creditHour": "3 hrs",
+                  "code": "CAOR451"
+                },
+                {
+                  "title": "Project III",
+                  "creditHour": "6 hrs",
+                  "code": "CAPJ452"
+                },
+                {
+                  "title": "Elective III",
+                  "creditHour": "3 hrs",
+                  "code": "N/A"
+                },
+                {
+                  "title": "Elective IV",
+                  "creditHour": "3 hrs",
+                  "code": "N/A"
+                }
+              ]
+            },
+            "Civil Engineering": {
+                "Semester 1": [
+                  {
+                    "title": "Engineering Drawing I",
+                    "creditHour": "3 hrs",
+                    "code": "ME 401"
+                  },
+                  {
+                    "title": "Engineering Mathematics I",
+                    "creditHour": "3 hrs",
+                    "code": "SH 401"
+                  },
+                  {
+                    "title": "Fundamental of Thermodynamics & Heat Transfer",
+                    "creditHour": "3 hrs",
+                    "code": "ME 402"
+                  },
+                  {
+                    "title": "Engineering Chemistry",
+                    "creditHour": "3 hrs",
+                    "code": "SH 403"
+                  },
+                  {
+                    "title": "Workshop Technology",
+                    "creditHour": "3 hrs",
+                    "code": "ME 403"
+                  },
+                  {
+                    "title": "Computer Programming",
+                    "creditHour": "3 hrs",
+                    "code": "CT 401"
+                  }
+                ],
+                "Semester 2": [
+                  {
+                    "title": "Engineering Mathematics II",
+                    "creditHour": "3 hrs",
+                    "code": "SH 451"
+                  },
+                  {
+                    "title": "Basic Electronics Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EX 451"
+                  },
+                  {
+                    "title": "Engineering Drawing II",
+                    "creditHour": "3 hrs",
+                    "code": "ME 451"
+                  },
+                  {
+                    "title": "Engineering Physics",
+                    "creditHour": "3 hrs",
+                    "code": "SH 452"
+                  },
+                  {
+                    "title": "Applied Mechanics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 451"
+                  },
+                  {
+                    "title": "Basic Electrical Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EE 453"
+                  }
+                ],
+                "Semester 3": [
+                  {
+                    "title": "Civil Engineering Materials",
+                    "creditHour": "3 hrs",
+                    "code": "CE 506"
+                  },
+                  {
+                    "title": "Engineering Mathematics III",
+                    "creditHour": "3 hrs",
+                    "code": "SH 501"
+                  },
+                  {
+                    "title": "Applied Mechanics(Dynamics)",
+                    "creditHour": "3 hrs",
+                    "code": "CE 503"
+                  },
+                  {
+                    "title": "Engineering Geology I",
+                    "creditHour": "3 hrs",
+                    "code": "CE 501"
+                  },
+                  {
+                    "title": "Strength of Materials",
+                    "creditHour": "3 hrs",
+                    "code": "CE 502"
+                  },
+                  {
+                    "title": "Surveying I",
+                    "creditHour": "3 hrs",
+                    "code": "CE 504"
+                  },
+                  {
+                    "title": "Fluid Mechanics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 505"
+                  }
+                ],
+                "Semester 4": [
+                  {
+                    "title": "Hydraulics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 555"
+                  },
+                  {
+                    "title": "Surveying II",
+                    "creditHour": "3 hrs",
+                    "code": "CE 554"
+                  },
+                  {
+                    "title": "Theory of Structures I",
+                    "creditHour": "3 hrs",
+                    "code": "CE 551"
+                  },
+                  {
+                    "title": "Probability And Statistics",
+                    "creditHour": "3 hrs",
+                    "code": "SH 552"
+                  },
+                  {
+                    "title": "Engineering Geology II",
+                    "creditHour": "3 hrs",
+                    "code": "CE 553"
+                  },
+                  {
+                    "title": "Building Drawing",
+                    "creditHour": "3 hrs",
+                    "code": "CE 556"
+                  },
+                  {
+                    "title": "Soil Mechanics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 552"
+                  }
+                ],
+                "Semester 5": [
+                  {
+                    "title": "Theory of Structure II",
+                    "creditHour": "3 hrs",
+                    "code": "CE 601"
+                  },
+                  {
+                    "title": "Water Supply Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 605"
+                  },
+                  {
+                    "title": "Engineering Hydrology",
+                    "creditHour": "3 hrs",
+                    "code": "CE 606"
+                  },
+                  {
+                    "title": "Concrete Technology and Masonry Structure",
+                    "creditHour": "3 hrs",
+                    "code": "CE 603"
+                  },
+                  {
+                    "title": "Numerical Methods",
+                    "creditHour": "3 hrs",
+                    "code": "SH 603"
+                  },
+                  {
+                    "title": "Foundation Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 602"
+                  },
+                  {
+                    "title": "Survey Camp",
+                    "creditHour": "3 hrs",
+                    "code": "CE 604"
+                  }
+                ],
+                "Semester 6": [
+                  {
+                    "title": "Design of Steel and Timber Structure",
+                    "creditHour": "3 hrs",
+                    "code": "CE 651"
+                  },
+                  {
+                    "title": "Communication English",
+                    "creditHour": "3 hrs",
+                    "code": "SH 651"
+                  },
+                  {
+                    "title": "Engineering Economics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 655"
+                  },
+                  {
+                    "title": "Building Technology",
+                    "creditHour": "3 hrs",
+                    "code": "CE 652"
+                  },
+                  {
+                    "title": "Sanitary Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 656"
+                  },
+                  {
+                    "title": "Transportation Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 653"
+                  },
+                  {
+                    "title": "Irrigation and Drainage",
+                    "creditHour": "3 hrs",
+                    "code": "CE 654"
+                  }
+                ],
+                "Semester 7": [
+                  {
+                    "title": "Hydropower Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 704"
+                  },
+                  {
+                    "title": "Project Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 701"
+                  },
+                  {
+                    "title": "Transportation Engineering II",
+                    "creditHour": "3 hrs",
+                    "code": "CE 703"
+                  },
+                  {
+                    "title": "Estimating & Costing",
+                    "creditHour": "3 hrs",
+                    "code": "CE 705"
+                  },
+                  {
+                    "title": "Design of RCC Structure",
+                    "creditHour": "3 hrs",
+                    "code": "CE 702"
+                  },
+                  {
+                    "title": "Project (Part I)",
+                    "creditHour": "3 hrs",
+                    "code": "CE 707"
+                  },
+                  {
+                    "title": "Elective I: Bio-Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 72504"
+                  },
+                  {
+                    "title": "Elective I: Water and WasteWater Quality Analysis",
+                    "creditHour": "3 hrs",
+                    "code": "CE 72512"
+                  },
+                  {
+                    "title": "Elective I: Soil Conservation and Watershed Management",
+                    "creditHour": "3 hrs",
+                    "code": "CE 72506"
+                  }
+                ],
+                "Semester 8": [
+                  {
+                    "title": "Technology Environment and Society",
+                    "creditHour": "3 hrs",
+                    "code": "CE 753"
+                  },
+                  {
+                    "title": "Construction Management",
+                    "creditHour": "3 hrs",
+                    "code": "CE 754"
+                  },
+                  {
+                    "title": "Project (Part II)",
+                    "creditHour": "6 hrs",
+                    "code": "CE 755"
+                  },
+                  {
+                    "title": "Engineering Professional Practice",
+                    "creditHour": "3 hrs",
+                    "code": "CE 752"
+                  },
+                  {
+                    "title": "Computational Techniques in Civil Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "CE 751"
+                  },
+                  {
+                    "title": "Elective II: Climate Change",
+                    "creditHour": "3 hrs",
+                    "code": "CE 76516"
+                  },
+                  {
+                    "title": "Elective II: Environmental Management System",
+                    "creditHour": "3 hrs",
+                    "code": "CE 76517"
+                  }
+                ]
+              },
+              "Electrical Engineering": {
+                "Semester 1": [
+                  {
+                    "title": "Engineering Drawing I",
+                    "creditHour": "3 hrs",
+                    "code": "ME 401"
+                  },
+                  {
+                    "title": "Engineering Physics",
+                    "creditHour": "3 hrs",
+                    "code": "SH 402"
+                  },
+                  {
+                    "title": "Applied Mechanics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 401"
+                  },
+                  {
+                    "title": "Basic Electrical Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EE 401"
+                  },
+                  {
+                    "title": "Engineering Mathematics I",
+                    "creditHour": "4 hrs",
+                    "code": "SH 401"
+                  },
+                  {
+                    "title": "Computer Programming",
+                    "creditHour": "3 hrs",
+                    "code": "CT 401"
+                  }
+                ],
+                "Semester 2": [
+                  {
+                    "title": "Engineering Mathematics II",
+                    "creditHour": "4 hrs",
+                    "code": "SH 451"
+                  },
+                  {
+                    "title": "Engineering Drawing II",
+                    "creditHour": "3 hrs",
+                    "code": "ME 451"
+                  },
+                  {
+                    "title": "Basic Electronics Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EX 451"
+                  },
+                  {
+                    "title": "Engineering Chemistry",
+                    "creditHour": "3 hrs",
+                    "code": "SH 453"
+                  },
+                  {
+                    "title": "Fundamental of Thermodynamics & Heat Transfer",
+                    "creditHour": "3 hrs",
+                    "code": "ME 452"
+                  },
+                  {
+                    "title": "Workshop Technology",
+                    "creditHour": "2 hrs",
+                    "code": "ME 453"
+                  }
+                ],
+                "Semester 3": [
+                  {
+                    "title": "Engineering Mathematics III",
+                    "creditHour": "4 hrs",
+                    "code": "SH 501"
+                  },
+                  {
+                    "title": "Object Oriented Programming",
+                    "creditHour": "3 hrs",
+                    "code": "CT 501"
+                  },
+                  {
+                    "title": "Electric Circuit Theory",
+                    "creditHour": "4 hrs",
+                    "code": "EE 501"
+                  },
+                  {
+                    "title": "Electronics Devices and Circuit",
+                    "creditHour": "3 hrs",
+                    "code": "EX 501"
+                  },
+                  {
+                    "title": "Digital Logic",
+                    "creditHour": "3 hrs",
+                    "code": "EX 502"
+                  },
+                  {
+                    "title": "Electrical Engineering Material",
+                    "creditHour": "3 hrs",
+                    "code": "EE 502"
+                  },
+                  {
+                    "title": "Electromagnetics",
+                    "creditHour": "3 hrs",
+                    "code": "EX 503"
+                  }
+                ],
+                "Semester 4": [
+                  {
+                    "title": "Numerical Method",
+                    "creditHour": "3 hrs",
+                    "code": "SH 553"
+                  },
+                  {
+                    "title": "Applied Mathematics",
+                    "creditHour": "3 hrs",
+                    "code": "SH 551"
+                  },
+                  {
+                    "title": "Instrumentation I",
+                    "creditHour": "3 hrs",
+                    "code": "EE 552"
+                  },
+                  {
+                    "title": "Microprocessor",
+                    "creditHour": "3 hrs",
+                    "code": "EX 551"
+                  },
+                  {
+                    "title": "Power System Analysis I",
+                    "creditHour": "3 hrs",
+                    "code": "EE 555"
+                  },
+                  {
+                    "title": "Electrical Machines I",
+                    "creditHour": "4 hrs",
+                    "code": "EE 550"
+                  }
+                ],
+                "Semester 5": [
+                  {
+                    "title": "Electric Machines - II",
+                    "creditHour": "4 hrs",
+                    "code": "EE 601"
+                  },
+                  {
+                    "title": "Electric Machine Design",
+                    "creditHour": "3 hrs",
+                    "code": "EE 603"
+                  },
+                  {
+                    "title": "Power System Analysis II",
+                    "creditHour": "3 hrs",
+                    "code": "EE 605"
+                  },
+                  {
+                    "title": "Communication English",
+                    "creditHour": "3 hrs",
+                    "code": "SH 601"
+                  },
+                  {
+                    "title": "Probability and Statistics",
+                    "creditHour": "3 hrs",
+                    "code": "SH 602"
+                  },
+                  {
+                    "title": "Control System",
+                    "creditHour": "4 hrs",
+                    "code": "EE 602"
+                  },
+                  {
+                    "title": "Instrumentation II",
+                    "creditHour": "3 hrs",
+                    "code": "EX 602"
+                  }
+                ],
+                "Semester 6": [
+                  {
+                    "title": "Engineering Economics",
+                    "creditHour": "3 hrs",
+                    "code": "CE 655"
+                  },
+                  {
+                    "title": "Hydro Power",
+                    "creditHour": "3 hrs",
+                    "code": "CE 660"
+                  },
+                  {
+                    "title": "Switchgear & Protection",
+                    "creditHour": "3 hrs",
+                    "code": "EE 651"
+                  },
+                  {
+                    "title": "Digital Control System",
+                    "creditHour": "3 hrs",
+                    "code": "EE 652"
+                  },
+                  {
+                    "title": "Industrial Power Distribution & Illumination",
+                    "creditHour": "3 hrs",
+                    "code": "EE 653"
+                  },
+                  {
+                    "title": "Signal Analysis",
+                    "creditHour": "3 hrs",
+                    "code": "EX 651"
+                  }
+                ],
+                "Semester 7": [
+                  {
+                    "title": "Project Engineering",
+                    "creditHour": "4 hrs",
+                    "code": "CE 701"
+                  },
+                  {
+                    "title": "Technology Environment and Society",
+                    "creditHour": "3 hrs",
+                    "code": "CE 708"
+                  },
+                  {
+                    "title": "Power Electronics",
+                    "creditHour": "3 hrs",
+                    "code": "EE 701"
+                  },
+                  {
+                    "title": "Organization and Management",
+                    "creditHour": "3 hrs",
+                    "code": "ME 708"
+                  },
+                  {
+                    "title": "Utilization of Electrical Energy",
+                    "creditHour": "3 hrs",
+                    "code": "EE 702"
+                  },
+                  {
+                    "title": "Power Plant Equipment",
+                    "creditHour": "3 hrs",
+                    "code": "EE 703"
+                  },
+                  {
+                    "title": "Project (Part A)",
+                    "creditHour": "4 hrs",
+                    "code": "EE 707"
+                  },
+                  {
+                    "title": "Elective I : Energy Electrical System Management",
+                    "creditHour": "3 hrs",
+                    "code": "EE 704"
+                  },
+                  {
+                    "title": "Elective I : Reliability Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EE 705"
+                  },
+                  {
+                    "title": "Elective I : Rural Electrification",
+                    "creditHour": "3 hrs",
+                    "code": "EE 706"
+                  }
+                ],
+                "Semester 8": [
+                  {
+                    "title": "Engineering Professional Practice",
+                    "creditHour": "3 hrs",
+                    "code": "CE 752"
+                  },
+                  {
+                    "title": "High Voltage Engineering",
+                    "creditHour": "3 hrs",
+                    "code": "EE 751"
+                  },
+                  {
+                    "title": "Power Plant Design",
+                    "creditHour": "4 hrs",
+                    "code": "EE 753"
+                  },
+                  {
+                    "title": "Transmission and Distribution System Design",
+                    "creditHour": "3 hrs",
+                    "code": "EE 754"
+                  },
+                  {
+                    "title": "Project (Part B)",
+                    "creditHour": "4 hrs",
+                    "code": "EE 755"
+                  },
+                  {
+                    "title": "Elective II : Advanced Power System Analysis",
+                    "creditHour": "3 hrs",
+                    "code": "EE 756"
+                  },
+                  {
+                    "title": "Elective II : Applied Photovoltaic",
+                    "creditHour": "3 hrs",
+                    "code": "EE 757"
+                  },
+                  {
+                    "title": "Elective III : Artificial Neural Network",
+                    "creditHour": "3 hrs",
+                    "code": "EE 758"
+                  },
+                  {
+                    "title": "Elective III : Micro-Hydro Power",
+                    "creditHour": "3 hrs",
+                    "code": "EE 759"
+                  },
+                  {
+                    "title": "Elective III : Wind Energy Conversion System",
+                    "creditHour": "3 hrs",
+                    "code": "EE 760"
+                  },
+                  {
+                    "title": "Elective II : BIOMEDICAL INSTRUMENTATION",
+                    "creditHour": "3 hrs",
+                    "code": "EE 761"
+                  }
+                ]
+              },
+              "CSIT": {
+                  "Semester 1": [
+                    {
+                      "title": "Introduction to Information Technology",
+                      "creditHour": "3 hrs",
+                      "code": "CSC109"
+                    },
+                    {
+                      "title": "C Programming",
+                      "creditHour": "3 hrs",
+                      "code": "CSC110"
+                    },
+                    {
+                      "title": "Digital Logic",
+                      "creditHour": "3 hrs",
+                      "code": "CSC111"
+                    },
+                    {
+                      "title": "Mathematics I",
+                      "creditHour": "3 hrs",
+                      "code": "MTH112"
+                    },
+                    {
+                      "title": "Physics",
+                      "creditHour": "3 hrs",
+                      "code": "PHY113"
+                    }
+                  ],
+                  "Semester 2": [
+                    {
+                      "title": "Discrete Structure",
+                      "creditHour": "3 hrs",
+                      "code": "CSC160"
+                    },
+                    {
+                      "title": "Object Oriented Programming",
+                      "creditHour": "3 hrs",
+                      "code": "CSC161"
+                    },
+                    {
+                      "title": "Microprocessor",
+                      "creditHour": "3 hrs",
+                      "code": "CSC162"
+                    },
+                    {
+                      "title": "Mathematics II",
+                      "creditHour": "3 hrs",
+                      "code": "MTH163"
+                    },
+                    {
+                      "title": "Statistics I",
+                      "creditHour": "3 hrs",
+                      "code": "STA164"
+                    }
+                  ],
+                  "Semester 3": [
+                    {
+                      "title": "Data Structure and Algorithm",
+                      "creditHour": "3 hrs",
+                      "code": "CSC206"
+                    },
+                    {
+                      "title": "Numerical Method",
+                      "creditHour": "3 hrs",
+                      "code": "CSC207"
+                    },
+                    {
+                      "title": "Computer Architecture",
+                      "creditHour": "3 hrs",
+                      "code": "CSC208"
+                    },
+                    {
+                      "title": "Computer Graphics",
+                      "creditHour": "3 hrs",
+                      "code": "CSC209"
+                    },
+                    {
+                      "title": "Statistics II",
+                      "creditHour": "3 hrs",
+                      "code": "STA210"
+                    }
+                  ],
+                  "Semester 4": [
+                    {
+                      "title": "Theory of Computation",
+                      "creditHour": "3 hrs",
+                      "code": "CSC257"
+                    },
+                    {
+                      "title": "Computer Networks",
+                      "creditHour": "3 hrs",
+                      "code": "CSC258"
+                    },
+                    {
+                      "title": "Operating System",
+                      "creditHour": "3 hrs",
+                      "code": "CSC259"
+                    },
+                    {
+                      "title": "Database Management System",
+                      "creditHour": "3 hrs",
+                      "code": "CSC260"
+                    },
+                    {
+                      "title": "Artificial Intelligence",
+                      "creditHour": "3 hrs",
+                      "code": "CSC261"
+                    }
+                  ],
+                  "Semester 5": [
+                    {
+                      "title": "Design and Analysis of Algorithm",
+                      "creditHour": "3 hrs",
+                      "code": "CSC314"
+                    },
+                    {
+                      "title": "System Analysis and Design",
+                      "creditHour": "3 hrs",
+                      "code": "CSC315"
+                    },
+                    {
+                      "title": "Cryptography",
+                      "creditHour": "3 hrs",
+                      "code": "CSC316"
+                    },
+                    {
+                      "title": "Simulation and Modeling",
+                      "creditHour": "3 hrs",
+                      "code": "CSC317"
+                    },
+                    {
+                      "title": "Web Technology",
+                      "creditHour": "3 hrs",
+                      "code": "CSC318"
+                    },
+                    {
+                      "title": "Elective I",
+                      "creditHour": "3 hrs",
+                      "code": "N/A"
+                    }
+                  ],
+                  "Semester 6": [
+                    {
+                      "title": "Software Engineering",
+                      "creditHour": "3 hrs",
+                      "code": "CSC364"
+                    },
+                    {
+                      "title": "Computer Design and Construction",
+                      "creditHour": "3 hrs",
+                      "code": "CSC365"
+                    },
+                    {
+                      "title": "E-Governance",
+                      "creditHour": "3 hrs",
+                      "code": "CSC366"
+                    },
+                    {
+                      "title": "NET Centric Computing",
+                      "creditHour": "3 hrs",
+                      "code": "CSC367"
+                    },
+                    {
+                      "title": "Technical Writing",
+                      "creditHour": "3 hrs",
+                      "code": "CSC368"
+                    },
+                    {
+                      "title": "Elective II",
+                      "creditHour": "3 hrs",
+                      "code": "N/A"
+                    }
+                  ],
+                  "Semester 7": [
+                    {
+                      "title": "Advanced Java Programming",
+                      "creditHour": "3 hrs",
+                      "code": "CSC409"
+                    },
+                    {
+                      "title": "Data Warehousing and Data Mining",
+                      "creditHour": "3 hrs",
+                      "code": "CSC410"
+                    },
+                    {
+                      "title": "Principles of Management",
+                      "creditHour": "3 hrs",
+                      "code": "MGT411"
+                    },
+                    {
+                      "title": "Project Work",
+                      "creditHour": "3 hrs",
+                      "code": "CSC412"
+                    },
+                    {
+                      "title": "Elective III",
+                      "creditHour": "3 hrs",
+                      "code": "N/A"
+                    }
+                  ],
+                  "Semester 8": [
+                    {
+                      "title": "Advanced Database",
+                      "creditHour": "3 hrs",
+                      "code": "CSC461"
+                    },
+                    {
+                      "title": "Internship",
+                      "creditHour": "6 hrs",
+                      "code": "CSC462"
+                    },
+                    {
+                      "title": "Elective IV",
+                      "creditHour": "3 hrs",
+                      "code": "N/A"
+                    }
+                  ]
+                }
+            ,
+            "Computer Engineering": {
+                "Semester 1": [
+                  {
+                    "title": "Engineering Mathematics I",
+                    "code": "SH401",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Computer Programming",
+                    "code": "CT401",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Engineering Drawing I",
+                    "code": "ME401",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Engineering Physics",
+                    "code": "SH402",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Applied Mechanics",
+                    "code": "CE401",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Basic Electrical Engineering",
+                    "code": "EE401",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 2": [
+                  {
+                    "title": "Engineering Mathematics II",
+                    "code": "SH451",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Engineering Drawing II",
+                    "code": "ME451",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Basic Electronics Engineering",
+                    "code": "EX451",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Engineering Chemistry",
+                    "code": "SH453",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Fundamentals of Thermodynamics & Heat Transfer",
+                    "code": "ME452",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Workshop Technology",
+                    "code": "ME453",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 3": [
+                  {
+                    "title": "Engineering Mathematics III",
+                    "code": "SH501",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Object-Oriented Programming",
+                    "code": "CT501",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Electric Circuit Theory",
+                    "code": "EE501",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Theory of Computation",
+                    "code": "CT502",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Electronic Devices & Circuits",
+                    "code": "EX501",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Digital Logic",
+                    "code": "EX502",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Electromagnetics",
+                    "code": "EX503",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 4": [
+                  {
+                    "title": "Electrical Machine",
+                    "code": "EE554",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Numerical Methods",
+                    "code": "SH553",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Applied Mathematics",
+                    "code": "SH551",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Instrumentation I",
+                    "code": "EE552",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Data Structure & Algorithm",
+                    "code": "CT552",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Microprocessor",
+                    "code": "EX551",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Discrete Structure",
+                    "code": "CT551",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 5": [
+                  {
+                    "title": "Communication English",
+                    "code": "SH601",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Software Engineering",
+                    "code": "CT601",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Probability & Statistics",
+                    "code": "SH602",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Instrumentation II",
+                    "code": "EX602",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Computer Graphics",
+                    "code": "EX603",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Data Communication",
+                    "code": "CT602",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Computer Organization & Architecture",
+                    "code": "CT603",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 6": [
+                  {
+                    "title": "Engineering Economics",
+                    "code": "CE655",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Embedded System",
+                    "code": "CT655",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Artificial Intelligence",
+                    "code": "CT653",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Database Management System",
+                    "code": "CT652",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Object-Oriented Analysis & Design",
+                    "code": "CT651",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Operating System",
+                    "code": "CT656",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Minor Project",
+                    "code": "CT654",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 7": [
+                  {
+                    "title": "Project Management",
+                    "code": "CT701",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Computer Network",
+                    "code": "CT702",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Distributed System",
+                    "code": "CT703",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Digital Signal Analysis & Processing",
+                    "code": "CT704",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Project I",
+                    "code": "CT707",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Energy Environment & Society",
+                    "code": "EX701",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Organization & Management",
+                    "code": "ME708",
+                    "creditHour": "3 hrs"
+                  }
+                ],
+                "Semester 8": [
+                  {
+                    "title": "Engineering Professional Practice",
+                    "code": "CE752",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Information Systems",
+                    "code": "CT751",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Simulation & Modeling",
+                    "code": "CT753",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Internet & Intranet",
+                    "code": "CT754",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Project II",
+                    "code": "CT755",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Agile Methodologies",
+                    "code": "CT76502",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Networking with IPv6",
+                    "code": "CT76503",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Big Data Technologies",
+                    "code": "CT76507",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Remote Sensing",
+                    "code": "CT78501",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Multimedia System",
+                    "code": "CT78503",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Enterprise Application Design & Development",
+                    "code": "CT78504",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "XML: Foundation Techniques & Applications",
+                    "code": "CT78505",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Telecommunication",
+                    "code": "EX78503",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Geographic Information System",
+                    "code": "CT78507",
+                    "creditHour": "3 hrs"
+                  },
+                  {
+                    "title": "Speech Processing",
+                    "code": "CT78508",
+                    "creditHour": "3 hrs"
+                  }
+                ]
+              }
+              
+              
+              
+              
+          }
+          
+    ]
+  }
+  
