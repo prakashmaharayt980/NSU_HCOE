@@ -75,6 +75,7 @@ const Education = () => {
               <tr>
                 <th className=" py-3 text-left text-sm font-medium text-gray-700">Title</th>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Code</th>
+                <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Data</th>
                 <th className="px-6 py-3 text-left text-sm font-medium text-gray-700">Action</th>
               </tr>
             </thead>
@@ -96,12 +97,15 @@ const Education = () => {
                           {note?.code || "N/A"}
                         </td>
                         <td className="px-6 py-3 text-sm text-gray-800">
+                        <FontAwesomeIcon icon={faCheck} className="text-green-500 hover:text-green-700" />
+                      
+                        </td>
+                        <td className="px-6 py-3 text-sm text-gray-800">
                           <button
                             onClick={() => setSelectedPdf(note)}
                             className="text-green-500 hover:text-green-700 text-xl"
                           >
-                            <FontAwesomeIcon icon={faCheck} className="text-green-500 hover:text-green-700" />
-                            &nbsp; &nbsp;
+                           
                             <FontAwesomeIcon icon={faEye} className="text-green-500 hover:text-green-700" />
                           </button>
                         </td>
